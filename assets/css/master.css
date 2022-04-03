@@ -309,7 +309,6 @@ img{
 
 .name .first-name, .name .last-name{
     font-size: 3rem;
-    filter: blur(1px);
 }
 
 .name .last-name{
